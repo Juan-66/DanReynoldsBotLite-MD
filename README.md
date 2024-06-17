@@ -1,4 +1,4 @@
-# DanBotLite
+# DanBot
 
 ¡ℌ𝔬𝔩𝔞! 🐲🎵 𝔅𝔦𝔢𝔫𝔳𝔢𝔫𝔦𝔡@ 𝔞𝔩 𝔯𝔢𝔭𝔬𝔰𝔦𝔱𝔬𝔯𝔦𝔬 ✅ 𝔒𝔣𝔦𝔠𝔦𝔞𝔩 𝔡𝔢 𝔇𝔞𝔫 ℜ𝔢𝔶𝔫𝔬𝔩𝔡𝔰 𝔅𝔬𝔱 💖. 𝔈𝔰𝔱𝔞𝔪𝔬𝔰 𝔞𝔠𝔱𝔲𝔞𝔩𝔦𝔷𝔞𝔫𝔡𝔬𝔫𝔬𝔰 𝔠𝔬𝔫𝔰𝔱𝔞𝔫𝔱𝔢𝔪𝔢𝔫𝔱𝔢 🆔. 𝔰𝔦 𝔱𝔢 𝔤𝔲𝔰𝔱𝔞, 𝔡𝔞𝔩𝔢 𝔲𝔫𝔞 ⭐ ¡𝔊𝔯𝔞𝔠𝔦𝔞𝔰 𝔭𝔬𝔯 𝔳𝔦𝔰𝔦𝔱𝔞𝔯!
 
@@ -18,16 +18,22 @@ Para instalar y ejecutar DanBot en tu máquina local, sigue estos pasos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Juan-66/DanReynoldsBotLite-MD.git
+   git clone https://github.com/Juan-66/DanReynoldsBot-MD.git
 2. Navega al directorio del proyecto:
    ```bash
-   cd DanReynoldsBotLite-MD
+   cd DanReynoldsBot-MD
 3. Instala las dependencias:
    ```bash
    npm install
 4. Inicia la bot
    ```bash
    npm start
+
+## Instalacion por Bash
+1. Utiliza el comando:
+   ```bash
+   bash dan.sh
+2. Espera
 
 ## Contribución
 
